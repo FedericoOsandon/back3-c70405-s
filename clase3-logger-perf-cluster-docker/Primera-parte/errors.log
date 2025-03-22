@@ -1,0 +1,6 @@
+{"level":"error","message":"Esto es un error"}
+{"level":"warn","message":"esto es un warnig"}
+fatal: Esto es un error
+fatal: Esto es un error
+error: esto es un warnig
+warning: esto es un warnig
